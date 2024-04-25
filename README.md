@@ -1,5 +1,7 @@
 
 # CSEL 302 Activities and Projects Compilation
+*  **Vargas, Mairene Rose B.**
+*  **BSCS-2A**
 # Introduction
 
 Welcome to the compilation of activities and projects in the subject CSEL-302 (Introduction to Intelligent Systems)! This collection showcases a variety of projects covering topics such as data analysis, visualization, probability and statistics, linear regression, and logistic regression.
