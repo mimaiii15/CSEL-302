@@ -8,13 +8,9 @@ Welcome to the compilation of activities and projects in the subject CSEL-302 (I
 ## Table of Contents
 
 1. [Data Analytics and Visualization](#data-analytics-and-visualization)
-
 2. [Probability and Statistics](#probability-and-statistics)
-
 3. [Linear Regression](#linear-regression)
-
 4. [Logistic Regression](#logistic-regression)
-
 5. [Activities and Projects](#activities-and-projects)
 
 ### Data Analytics and Visualization
