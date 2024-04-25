@@ -33,4 +33,9 @@ Welcome to the compilation of activities and projects in the subject CSEL-302 (I
 
 ### Activities and Projects
 1. <a href="BSCS - 2A Assessment Task 1.ipynb">Data Detective Mystery: The Case of the Vanishing Sculpture</a>
+2. <a href="2A-VARGAS-EXER4.ipynb"> Predicting Student Grades </a>
+3. <a href="2A-VARGAS-EXER5.ipynb"> Bank Customer Data </a>
+4. <a href="2A-VARGAS-EXER6.ipynb"> Online Food Orders </a>
+5. <a href="2A-VARGAS-EXER7.ipynb"> Netflix Userbase Analysis </a>
+6. <a href="2A-VARGAS-MIDTERM.ipynb"> MIDTERM: Titanic Dataset </a>
 
