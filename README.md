@@ -32,5 +32,5 @@ Welcome to the compilation of activities and projects in the subject CSEL-302 (I
 *   **Logistic regression** is a statistical method used for modeling the probability of a binary outcome based on one or more predictor variables. Unlike linear regression, which predicts a continuous outcome, logistic regression predicts the probability that a given observation belongs to a particular category or class. It is widely used in various fields such as medicine, finance, and marketing for tasks such as classification and risk assessment. Logistic regression models the relationship between the dependent variable and independent variables using the logistic function, which ensures that predicted probabilities are within the range of 0 and 1.
 
 ### Activities and Projects
-
+1. <a href="BSCS - 2A Assessment Task 1.ipynb">Data Detective Mystery: The Case of the Vanishing Sculpture</a>
 
